@@ -1,0 +1,1 @@
+{"version":3,"file":"0.bundle.js","sources":["webpack:///./src/Another.js"],"sourcesContent":["function Another() {\n  return 'Hi, I am Another Module';\n}\n\nexport { Another };"],"mappings":";;;;;;;;;;AAAA;AAAA;AAAA;AACA;AACA;AACA;;;;;A","sourceRoot":""}
